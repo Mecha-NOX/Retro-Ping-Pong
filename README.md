@@ -36,7 +36,7 @@ Keyboard controls for both the player paddles, ensuring a smooth experience.
 
 ## **Screenshots / GIFs**
 
-![PingPong1](https://github.com/Mecha-NOX/Countdown-Carnage/blob/b78451a59a67d9caf7e22beff407e0be5d344b78/GIFs/Countdown-Carnage_First.gif)
+![PingPong1](https://github.com/Mecha-NOX/Retro-Ping-Pong/blob/1eee30b02450cbea5557b1a15bf433d2578d8a1d/GIFs/Ping-Pong_HighRes.gif)
 
 ---
 

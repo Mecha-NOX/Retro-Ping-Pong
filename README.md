@@ -12,16 +12,16 @@
 
 ## **Features**
 
-- **•Two-Player Gameplay**
+- **•Two-Player Gameplay**   
 Two players can control paddles to hit a ball back and forth, scoring when the opponent fails to return the ball.
 
-- **•AI Opponent**
+- **•AI Opponent**   
 In single-player mode, the game features a basic AI opponent that can return the ball based on its speed and position.
 
-- **•Score Tracking**
+- **•Score Tracking**   
 The score is displayed, and players earn points when the opponent misses the ball.
 
-- **•Responsive Controls**
+- **•Responsive Controls**   
 Keyboard controls for both the player paddles, ensuring a smooth experience.
 
 ---
